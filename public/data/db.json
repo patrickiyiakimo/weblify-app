@@ -1,0 +1,15 @@
+{
+    "urls": [
+      {
+        "id": 1,
+        "original_url": "https://example.com",
+        "short_url": "https://yourshortdomain.com/abc123"
+      },
+      {
+        "id": 2,
+        "original_url": "https://example2.com",
+        "short_url": "https://yourshortdomain.com/def456"
+      }
+    ]
+  }
+  
